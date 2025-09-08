@@ -1,0 +1,29 @@
+body {
+    background-color: #EF7722;
+    margin-left: 25%;
+    margin-right: 25%;
+    
+}
+
+
+img {
+    margin:auto;
+    display: block;
+    border-radius: 15%;
+    width: 150px;
+    height: 150px;
+
+}
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 60px;
+}
+
+ul {
+    align-items: center;
+}
+p, li, a {
+    font-size: 24px;
+    color: white;
+}
