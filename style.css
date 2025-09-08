@@ -23,7 +23,11 @@ h1 {
 ul {
     align-items: center;
 }
-p, li, a {
-    font-size: 24px;
-    color: white;
+
+a, ul {
+  display: block;
+  text-align: center;
+  list-style-type: none;
+  font-size: 24px;
+  color: white;
 }
