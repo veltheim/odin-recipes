@@ -2,9 +2,15 @@ body {
     background-color: black;
     margin-left: 25%;
     margin-right: 25%;
-  line-height: 50px;
+    line-height: 50px;
+    font-family: "Germania One", "San Serif";
+} 
+      
+      
+      
+
     
-}
+
 
 
 img {
@@ -19,15 +25,16 @@ h1 {
     text-align: center;
     color: white;
     font-size: 50px;
+    margin-top: 10%;
 }
 h2 {
   text-align: center;
     color: white;
   font-size: 35px;
-}
+} 
 
 
-ul, p {
+ul, p, ol {
   font-size: 24px;
   color: white;
 }
@@ -36,7 +43,7 @@ a {
   text-decoration: none;
   border: 2px solid white;
   border-radius: 30%;
-  margin: 50px;
+  margin: 10px;
   padding: 10px;
   line-height: 70px;
   background-color: black;
